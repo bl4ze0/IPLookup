@@ -1,6 +1,5 @@
 # IP Lookup Tool
-I created this tool and it took me 2 hours, I made only for educational purposes ONLY!!!
-I do not take any responsibility of the usage of this tool
+This tool will help you gather informations about the IP you give it!
 
 ## Requirements
 * Python
